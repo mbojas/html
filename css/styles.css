@@ -1,0 +1,164 @@
+/*
+od najjasniejszego
+color1=#F6F5F5;
+color2=#D3E0EA;
+color3=#1687A7;
+color4=#276678;
+*/
+
+body {
+    /*background-color:white;*/
+    color: #40514E;
+    text-align:center;
+    margin:0;
+    font-family: 'Merriweather', serif;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+    margin 10px 20px;
+    text-decoration:none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+p {
+    line-height:2;
+}
+
+
+.top {
+    background-color:#E4F9F5;
+    position: relative;
+    paddint-top:100px;
+
+}
+
+.mid {
+    margin: 100px 0;
+}
+
+.bot {
+    background-color:#66BFBF;
+    padding: 50px 0 20px;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    padding-top: 5.625rem;
+    font-size:40px;
+    color:#66BFBF;
+}
+
+h2 {
+    margin: 100px auto 0 auto;
+    color:#66BFBF;
+    font-weight:normal;
+    font-size:2rem;
+    padding-bottom:10px;
+}
+
+h3 {
+    color:#11999E;
+}
+
+.intro {
+    width: 30%;
+    margin:auto;
+}
+
+.mid_cloud {
+    position:absolute;
+    left: 250px;
+    bottom: 300px;
+    }
+
+.top_cloud {
+    position:absolute;
+    right: 300px;
+    top: 40px;
+
+    }
+
+.skill-row {
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+}
+.skills {
+    margin: 50px auto 50px auto;
+    padding:0px;
+}
+
+.cpu {
+    float:left;
+    width:25%;
+    margin-right:30px;
+}
+
+.drum {
+    float:right;
+    width:25%;
+    margin-left:30px;
+}
+.contact-message {
+    width:40%;
+    margin: 40px auto 60px;
+}
+
+/*.contact-me {
+    width:40%;
+    margin: 40px auto 60px;
+}*/
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.BUTTON_XOQ {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Merriweather', serif;
+   font-size: 30px;
+   font-weight: 100;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 5px 1px 20px 0 #000000;
+   -moz-box-shadow: 5px 1px 20px 0 #000000;
+   box-shadow: 5px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   padding: 10px 20px 10px 20px;
+   text-align: center;
+}
+
+
+.BUTTON_XOQ:hover {
+   background: #FFBE26;
+   border: solid #FFAE00 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.intro {
+    width: 30%;
+    margin:auto;
+}
